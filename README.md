@@ -5,6 +5,8 @@ este proyecto simula una tienda en linea
 -HTML
 -CSS
 -JavaScript
+## Autor
+EmiliJacobo
 Que practicar :
 . Titulos ( # )
 .Listas ( - )
